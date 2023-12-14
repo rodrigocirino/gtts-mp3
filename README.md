@@ -1,7 +1,8 @@
-# gTTS Batch - Text-to-Speech Conversion from Text MP3 Files
+# gtts-mp3
+### Google Text-to-Speech Conversion from Text to MP3 Files
 
-### What is gTTS Batch ?
-This tool uses [gTTS](https://gtts.readthedocs.io/en/latest/cli.html) to convert text files to **MP3 audio** files using Google's Text-to-Speech API Translate, which is the command line version for the [Google Translate](https://translate.google.com).
+### What is gtts-mp3 ?
+**This tool uses [gTTS](https://gtts.readthedocs.io/en/latest/cli.html)** to convert text files to **MP3 audio** files using Google's Text-to-Speech API Translate, which is the command line version for the [Google Translate](https://translate.google.com).
 
 ### Installation
 
