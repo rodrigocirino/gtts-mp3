@@ -35,5 +35,5 @@ gtts-cli --all # Test/check all available languages
 
     For file-based processing:
     ```sh
-    python gtts_file.py input.txt "en"
+    python gtts_file.py input.txt "English"
     ```
