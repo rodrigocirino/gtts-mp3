@@ -20,7 +20,6 @@ MULTIPLE MP3 FOR EACH LINE
 
 # >  python gtts_lines.py input.txt "fr"
 
-import logging
 import os
 import re
 import sys
@@ -28,7 +27,7 @@ import sys
 from gtts import gTTS
 from unidecode import unidecode
 
-logging.getLogger('gtts').setLevel(logging.DEBUG)
+
 os.makedirs("mp3", exist_ok=True)
 
 

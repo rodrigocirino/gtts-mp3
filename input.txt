@@ -1,14 +1,9 @@
-Les fauteuils anciens sont extrêmement,,magnifiques et délicats.
-# (As poltronas antigas são extremamente magníficas e delicadas.)
+# Comments are ignored when generating the MP3 file.
+She sells seashells by the seashore.
+# "Ela vende conchas à beira mar."
 
-L'architecture gothique est très impressionnante et incroyablement détaillée.
-# (A arquitetura gótica é muito impressionante e incrivelmente detalhada.)
+Six sleek swans swam swiftly southward.
+# "Seis cisnes elegantes nadaram rapidamente para o sul."
 
-La prononciation correcte nécessite patience, pratique et persévérance.
-# (A pronúncia correta requer paciência, prática e perseverança.)
-
-Les bibliothèques médiévales sont particulièrement mystérieuses et fascinantes.
-# (As bibliotecas medievais são particularmente misteriosas e fascinantes.)
-
-L'astronomie moderne est complexe mais incroyablement intéressante et captivante.
-# (A astronomia moderna é complexa, mas incrivelmente interessante e cativante.)
+Fred's fresh fish is tasty.
+# “O peixe fresco do Fred é saboroso.”

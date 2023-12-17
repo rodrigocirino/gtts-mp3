@@ -22,7 +22,6 @@ ONE MP3 FOR ONE FILE
 
 # >  python gtts_file.py input.txt "fr"
 
-import logging
 import os
 import re
 import sys
@@ -80,7 +79,6 @@ class TextConcatenator:
 
 
 if __name__ == "__main__":
-    logging.getLogger('gtts').setLevel(logging.DEBUG)
 
     file_name_input = sys.argv[1]
     target_language = sys.argv[2]
