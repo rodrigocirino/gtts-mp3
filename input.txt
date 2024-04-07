@@ -1,9 +1,14 @@
+# UDHR - The Universal Declaration of Human Rights
+
 # Comments are ignored when generating the MP3 file.
-She sells seashells by the seashore.
-# "Ela vende conchas à beira mar."
+# From: The Universal Declaration of Human Rights (UDHR) is a milestone document in the history of human rights.
+# https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights
 
-Six sleek swans swam swiftly southward.
-# "Seis cisnes elegantes nadaram rapidamente para o sul."
+# Article 3
+Everyone has the right to life, liberty and security of person.
 
-Fred's fresh fish is tasty.
-# “O peixe fresco do Fred é saboroso.”
+# Article 6
+"Everyone has the right to recognition everywhere as a person before the law."
+
+# Article 9
+'No one shall be subjected to arbitrary arrest, detention or exile.'

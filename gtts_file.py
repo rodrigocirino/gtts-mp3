@@ -33,7 +33,7 @@ os.makedirs("mp3", exist_ok=True)
 
 
 class TextConcatenator:
-    def __init__(self, language, slow=True):
+    def __init__(self, language, slow):
         self.language = language
         self.slow = slow
 
@@ -87,5 +87,5 @@ if __name__ == "__main__":
         text_content = file.read()
 
     text_content = text_content.split('---')[0]
-    text_concatenator = TextConcatenator(language=target_language, slow=True)
+    text_concatenator = TextConcatenator(language=target_language, slow=False)
     text_concatenator.concatenate_text(text_content)
